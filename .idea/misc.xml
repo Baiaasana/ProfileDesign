@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/custom_btn_3.xml" value="0.1705" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/custom_btn_4.xml" value="0.1705" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/custom_btn_5.xml" value="0.152" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/custom_button.xml" value="0.152" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/custom_button_2.xml" value="0.152" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/custom_txtv.xml" value="0.1665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/ic_baseline_dashboard_24.xml" value="0.191" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.191" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/ic_baseline_notifications_24.xml" value="0.191" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/ic_baseline_palette_24.xml" value="0.191" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.191" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_baseline_account_balance_wallet_24.xml" value="0.279" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_baseline_arrow_forward_ios_24.xml" value="0.1665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_baseline_help_outline_24.xml" value="0.279" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_baseline_language_24.xml" value="0.241" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_baseline_notifications_none_24.xml" value="0.1665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_baseline_self_improvement_24.xml" value="0.191" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_menu.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_outline_location_on_24.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_outline_logout_24.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_outline_remove_red_eye_24.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_toggle_off_solid.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/drawable/ic_user_solid.xml" value="0.2115" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/layout/activity_item.xml" value="0.2657407407407407" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/menu/bottom_navigation_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Design/app/src/main/res/menu/botton_navigation_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
